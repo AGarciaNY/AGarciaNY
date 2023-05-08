@@ -1,24 +1,16 @@
-### Hi there 👋
-
-<!--
-**AGarciaNY/AGarciaNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hi 👋, I'm Aldair Garcia
+### Hi 👋, I'm Aldair Garcia
 A natural-borne problem solver and passionate Full-Stack developer from New York City.
 🌱 I’m currently learning Node.js, REACT, Python, Postgres
 
-📝 I regularly write articles on https://medium.com/@shadmanc
-
 💬 Ask me about the declining bee population.
 
-📫 How to reach me shadmanchowdhury01@gmail.com
-
-📄 Know about my experiences https://docs.google.com/document/d/1KEai_m5bOoVpIunHZYMBjJMO3W9g87nLq_H6RAOWNVQ/edit?usp=sharing
-
-Connect with me:
-shadmanc @shadmanc shadmanc01
+📫 How to reach me aldairgarcia360@gmail.com
 
 Languages and Tools:
-aws azure bootstrap css3 figma html5 illustrator javascript linux mysql photoshop postgresql python react typescript xd
+aws bootstrap css3 scss figma html5 javascript linux mysql postgresql python react blender godotengine
+
+<!--
+**AGarciaNY/AGarciaNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
