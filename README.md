@@ -9,7 +9,7 @@ A natural-borne problem solver and passionate Full-Stack developer from New York
 Languages and Tools:
 <p align="left" display="flex"> 
   
-  <img src="https://img.itch.zone/aW1hZ2UyL2phbS8yOTg1NzcvNTQwMTU3NC5wbmc=/original/GH922%2B.png" alt="aws" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="aws" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   
