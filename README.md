@@ -31,8 +31,9 @@ Languages and Tools:
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   
-  <img src="https://www.vhv.rs/dpng/d/551-5515105_blender-svg-png-whitechapel-station-transparent-png.png" alt="react" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="react" width="40" height="40"/>
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="40" height="40"/>
 </p>
 
 aws bootstrap css3 scss figma html5 javascript linux mysql postgresql python react blender godotengine
