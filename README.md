@@ -5,10 +5,11 @@ A natural-borne problem solver and passionate Full-Stack developer from New York
 💬 Ask me about the declining bee population.
 
 📫 How to reach me aldairgarcia360@gmail.com
-
+https://img.itch.zone/aW1hZ2UyL2phbS8yOTg1NzcvNTQwMTU3NC5wbmc=/original/GH922%2B.png
 Languages and Tools:
 <p align="left" display="flex"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  
+  <img src="https://img.itch.zone/aW1hZ2UyL2phbS8yOTg1NzcvNTQwMTU3NC5wbmc=/original/GH922%2B.png alt="aws" width="40" height="40"/>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   
