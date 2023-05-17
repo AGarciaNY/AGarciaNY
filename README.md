@@ -36,8 +36,6 @@ Languages and Tools:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="40" height="40"/>
 </p>
 
-aws bootstrap css3 scss figma html5 javascript linux mysql postgresql python react blender godotengine
-
 <!--
 **AGarciaNY/AGarciaNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
