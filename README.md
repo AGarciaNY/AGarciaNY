@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Aldair Garcia
-A natural-borne problem solver and passionate Full-Stack developer from New York City.
+A problem solver and passionate Full-Stack developer from New York City.
 🌱 I’m currently learning Node.js, REACT, Python, Postgres
 
 💬 Ask me about the declining bee population.
